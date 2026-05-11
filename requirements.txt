@@ -1,5 +1,3 @@
-# DeepFace version of the project. No dlib or face-recognition package is required.
-# Use Python 3.11.x for the most reliable TensorFlow/DeepFace install.
 streamlit>=1.45.0,<2.0
 deepface>=0.0.93,<0.1.0
 tensorflow>=2.16.0,<2.22
